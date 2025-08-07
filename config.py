@@ -9,17 +9,17 @@ API_ID = 21968859
 
 API_HASH = "21a59d21687f01d448530ee88a26b1eb"
 
-BOT_TOKEN = "8309548271:AAHvN4f9aeDvBHRHCbDQ9WI3AHmiZuCMhdQ"
+BOT_TOKEN = "7527159218:AAGzCwOSHhZiqEXRb5rS2mBaXFifS9Fit2I"
 
-BOT_ID = 8309548271
+BOT_ID = 7527159218
 
-BOT_USERNAME = "@CelaviraBot"
+BOT_USERNAME = "@MutsuriTunesbot"
 
 OWNER_USERNAME = "@eren_aethonix"
 
-BOT_NAME = "𝐂𝐞𝐥𝐚𝐯𝐢𝐫𝐚 ꭙ 𝐌ᴜsɪᴄ 🌹"
+BOT_NAME = "Mɪᴛsᴜʀɪ Tᴜɴᴇs 💞"
 
-ASSUSERNAME = "@Celaviraassistant"
+ASSUSERNAME = "@Mitsuriassist"
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://thebiggestcomebackever:EREN1234@cluster0.7q7ri.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
@@ -83,17 +83,17 @@ votemode = {}
 autoclean = []
 confirmer = {}
 
-START_IMG_URL =  "https://i.ibb.co/xShCWv4S/photo-2025-08-02-13-48-10-7533984627074007064.jpg"
-PLAYLIST_IMG_URL = "https://i.ibb.co/xShCWv4S/photo-2025-08-02-13-48-10-7533984627074007064.jpg"
-STATS_IMG_URL = "https://i.ibb.co/xShCWv4S/photo-2025-08-02-13-48-10-7533984627074007064.jpg"
-TELEGRAM_AUDIO_URL = "https://i.ibb.co/xShCWv4S/photo-2025-08-02-13-48-10-7533984627074007064.jpg"
-TELEGRAM_VIDEO_URL = "https://i.ibb.co/xShCWv4S/photo-2025-08-02-13-48-10-7533984627074007064.jpg"
-STREAM_IMG_URL = "https://i.ibb.co/xShCWv4S/photo-2025-08-02-13-48-10-7533984627074007064.jpg"
-SOUNCLOUD_IMG_URL = "https://i.ibb.co/xShCWv4S/photo-2025-08-02-13-48-10-7533984627074007064.jpg"
-YOUTUBE_IMG_URL = "https://i.ibb.co/xShCWv4S/photo-2025-08-02-13-48-10-7533984627074007064.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://i.ibb.co/xShCWv4S/photo-2025-08-02-13-48-10-7533984627074007064.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://i.ibb.co/xShCWv4S/photo-2025-08-02-13-48-10-7533984627074007064.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://i.ibb.co/xShCWv4S/photo-2025-08-02-13-48-10-7533984627074007064.jpg"
+START_IMG_URL =  "https://i.ibb.co/WvHVjWvZ/photo-2025-08-07-05-24-01-7535710138775109636.jpg"
+PLAYLIST_IMG_URL = "https://i.ibb.co/WvHVjWvZ/photo-2025-08-07-05-24-01-7535710138775109636.jpg"
+STATS_IMG_URL = "https://i.ibb.co/WvHVjWvZ/photo-2025-08-07-05-24-01-7535710138775109636.jpg"
+TELEGRAM_AUDIO_URL = "https://i.ibb.co/WvHVjWvZ/photo-2025-08-07-05-24-01-7535710138775109636.jpg"
+TELEGRAM_VIDEO_URL = "https://i.ibb.co/WvHVjWvZ/photo-2025-08-07-05-24-01-7535710138775109636.jpg"
+STREAM_IMG_URL = "https://i.ibb.co/WvHVjWvZ/photo-2025-08-07-05-24-01-7535710138775109636.jpg"
+SOUNCLOUD_IMG_URL = "https://i.ibb.co/WvHVjWvZ/photo-2025-08-07-05-24-01-7535710138775109636.jpg"
+YOUTUBE_IMG_URL = "https://i.ibb.co/WvHVjWvZ/photo-2025-08-07-05-24-01-7535710138775109636.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://i.ibb.co/WvHVjWvZ/photo-2025-08-07-05-24-01-7535710138775109636.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://i.ibb.co/WvHVjWvZ/photo-2025-08-07-05-24-01-7535710138775109636.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://i.ibb.co/WvHVjWvZ/photo-2025-08-07-05-24-01-7535710138775109636.jpg"
 
 def time_to_seconds(time):
     stringt = str(time)
